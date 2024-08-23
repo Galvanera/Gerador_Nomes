@@ -10,7 +10,7 @@ Instale a biblioteca Faker:
 pip install faker
 
 Clone este repositório:
-git clone https://github.com/seu-usuario/gerador-nomes-ficticios.git
+git clone https://github.com/seu-usuario/gerador_nomes.git
 cd gerador-nomes-ficticios
 
 Execute o script:
