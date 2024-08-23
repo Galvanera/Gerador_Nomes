@@ -11,7 +11,7 @@ pip install faker
 
 Clone este repositório:
 git clone https://github.com/seu-usuario/gerador_nomes.git
-cd gerador-nomes-ficticios
+cd gerador_nomes
 
 Execute o script:
 python gerar_nomes.py
@@ -30,6 +30,5 @@ fake = Faker("pt_BR")  # Configuração para nomes em português do Brasil
 nomes_clientes = [fake.name() for _ in range(200)]
 
 print(nomes_clientes)
-Código gerado por IA. Examine e use com cuidado. Mais informações em perguntas frequentes.
-Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
